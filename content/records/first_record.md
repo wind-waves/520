@@ -12,5 +12,5 @@ title: first record
 ps 下周还有个算是惊喜吧  
 希望我们越来越好！  
 
-![family](../images/family.jpg){width=10% height=10%}
+![family](../images/family.jpg)
 
