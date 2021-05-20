@@ -1,0 +1,5 @@
+baseURL = "https://wind-waves.github.io/520/"
+languageCode = "zh-cn"
+title = "Ding & Duer Home"
+theme = "dimension" 
+publicDir = docs
