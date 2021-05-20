@@ -1,4 +1,4 @@
-baseURL = "https://wind-waves.github.io/520/"
+baseURL = "https://wind-waves.github.io/520/docs/"
 languageCode = "zh-cn"
 title = "Ding & Duer Home"
 theme = "dimension" 
