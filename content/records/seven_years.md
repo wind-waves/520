@@ -1,5 +1,5 @@
 ---
-title: Seven years
+title: seven years
 ---
 
 # 2023-2-13
@@ -54,4 +54,8 @@ title: Seven years
 生活难免琐碎，事情难免繁杂  
 但是我爱老婆，还和当初一样  
 
-
+![youth](../images/youth.jpg)
+![youth2](../images/youth2.jpg)
+![married](../images/married.jpg)  
+![family](../images/family.jpg)
+![yoyo](../images/yoyo_came.jpg)
