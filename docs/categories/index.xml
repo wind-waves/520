@@ -5,6 +5,10 @@
     <link>https://wind-waves.github.io/520/categories/</link>
     <description>Recent content in Categories on Ding &amp; Duer Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://wind-waves.github.io/520/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    
+	<atom:link href="https://wind-waves.github.io/520/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
